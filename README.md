@@ -3,4 +3,4 @@
 Tal Genkin
 
 
-[!Ideas 1 - 8](Idea1-8.JPG)
+![Ideas 1 - 8](idea1-8.JPG)
